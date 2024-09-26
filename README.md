@@ -26,4 +26,4 @@ Use the "Clear" button to reset the calculation.
 Screenshot :- 
 
 Here is a preview of the calculator:
-
+![Calculator Screenshot](screenshot-calculator.png)
